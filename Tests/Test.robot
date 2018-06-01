@@ -27,6 +27,7 @@ Sould be ope Facebook
     Switch Browser  3
     Maximize Browser Window
     minimize_browser  3
+    Close Browser 
 
    # Close All Browsers
 

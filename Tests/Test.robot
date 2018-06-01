@@ -26,7 +26,6 @@ Sould be ope Facebook
     Click Element  btnK
     Switch Browser  3
     Maximize Browser Window
-    sleep  5s
     minimize_browser  3
 
    # Close All Browsers
